@@ -525,6 +525,13 @@ a {
   margin: 6px 0;
 }
 
+.site-footer a {
+  color: white;
+  font-weight: 800;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
 @media (max-width: 920px) {
   .menu-toggle {
     display: block;
